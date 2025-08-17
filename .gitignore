@@ -1,0 +1,26 @@
+# Pasta com fotos e arquivos pessoais
+.github/
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependências
+node_modules/
+package-lock.json
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Configurações locais
+.env
+.env.local
