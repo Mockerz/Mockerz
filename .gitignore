@@ -1,5 +1,6 @@
-# Pasta com fotos e arquivos pessoais
-.github/
+# Pasta com fotos e arquivos pessoais (exceto a foto do perfil)
+.github/*
+!.github/mockerz.png
 *.png
 *.jpg
 *.jpeg
